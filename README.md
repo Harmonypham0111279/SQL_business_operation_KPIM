@@ -38,7 +38,7 @@ This SQL-based analysis provides insights into:
 - Microsoft SQL Server
 
 **Key SQL Concepts Applied**:
-- Common Table Expressions (CTEs)
+- Common Table Expressions (CTEs) (See Thuchanh04.sql)
 - Aggregate functions: `SUM()`, `AVG()`
 - `GROUP BY` and `HAVING` clauses
 - Filtering with `WHERE`
