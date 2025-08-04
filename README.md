@@ -5,7 +5,7 @@
 ## 1. Background & Overview
 AdventureWorks Cycles is a fictitious bicycle manufacturing company, represented by a sample SQL Server database developed by Microsoft. This dataset simulates real-world business operations across Sales, Purchasing, Manufacturing, Product Management, and Human Resources.
 
-This project uses SQL analysis to evaluate financial performance with a focus on Christmas season trends, and offers strategic, data-driven recommendations for the next fiscal year.
+This project uses advanced SQL techniques to analyze overall financial performance across multiple dimensions — including revenue, cost, product profitability, and regional performance — and provides strategic business recommendations for the upcoming fiscal year.
 
 ---
 
